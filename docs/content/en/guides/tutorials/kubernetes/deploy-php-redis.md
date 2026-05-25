@@ -3,7 +3,6 @@ title: Deploying PHP Guestbook application with Redis in Meshery
 model: kubernetes
 params:
     kind: deployments
-categories: [tutorials]
 description: In this tutorial, we will deploy guest book built with PHP and Redis in Kubernetes. We will make use of Meshery Playground in an interactive live cluster environment.
 aliases:
 - /guides/tutorials/deploy-php-redis

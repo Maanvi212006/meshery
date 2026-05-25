@@ -4,7 +4,6 @@ description: A native kubectl plugin for conveniently synchronizing the state of
 display_title: false
 aliases: 
 - /extensions/kubectl-kanvas-snapshot
-categories: [kanvas]
 ---
 
 # <img style="height: 4rem; width: 4rem;" src="/extensions/images/meshsync.svg" /> kubectl MeshSync Snapshot

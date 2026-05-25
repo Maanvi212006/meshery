@@ -3,7 +3,6 @@ title: Exploring Kubernetes Services with Meshery
 model: kubernetes
 params:
   kind: services
-categories: [tutorials]
 description: Explore Kubernetes Services using Meshery using Meshery Playground, an interactive live environment, through a series of hands-on exercises.
 aliases: 
 - /guides/tutorials/kubernetes-services

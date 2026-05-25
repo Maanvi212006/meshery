@@ -4,7 +4,6 @@ description: A visual walkthrough of how user requests flow through Kubernetes c
 model: kubernetes
 params:
   kind: deployments
-categories: [tutorials]
 aliases: 
 - /guides/tutorials/kubernetes-request-flow
 ---
